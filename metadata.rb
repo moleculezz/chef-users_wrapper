@@ -1,4 +1,4 @@
-name             "users_manage"
+name             "users_wrapper"
 maintainer       "G. Arends"
 maintainer_email "gdarends@gmail.com"
 license          "All rights reserved"

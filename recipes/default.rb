@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: users_manage
+# Cookbook Name:: users_wrapper
 # Recipe:: default
 #
 # Copyright (C) 2013 G. Arends
