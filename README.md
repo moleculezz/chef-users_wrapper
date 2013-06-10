@@ -1,4 +1,4 @@
-# users_manage cookbook
+# users_wrapper cookbook
 
 # Requirements
 
